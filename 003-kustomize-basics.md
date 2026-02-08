@@ -19,10 +19,10 @@ This file tells Kustomize:
 
 Example directory structure:
 
-~/someApp
-├── deployment.yaml
-├── service.yaml
-└── kustomization.yaml
+    ~/someApp
+    ├── deployment.yaml
+    ├── service.yaml
+    └── kustomization.yaml
 
 ---
 
